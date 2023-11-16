@@ -25,4 +25,4 @@ alternatives is optional!
 importance: high, medium, low
 types: annoyance(things like "shiver down * spine", or "just above a whisper"), refusal(pretty obvious what this means, something like "im sorry, but", or "as an AI" and so on)
 
-if [word1/word2] is placed somewhere in the entry, it means it can be one of those words
+if [word1/word2/word3/...] is placed somewhere in the entry, it means it can be one of those words
