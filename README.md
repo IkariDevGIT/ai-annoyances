@@ -12,9 +12,9 @@ The format should be like this:
   "shiver down * spine": {
     "importance": "high",
     "type": "annoyance",
-    "alternatives": {
+    "alternatives": [
       "quiver through *'s body"
-    }
+    ]
   },
 ...
 }
