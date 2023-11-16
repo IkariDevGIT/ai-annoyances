@@ -1,0 +1,53 @@
+{
+    "shiver down * spine": {
+      "importance": "high",
+      "type": "annoyance",
+      "alternatives": [
+        "quiver through *'s body"
+      ]
+    },
+    "As an AI": {
+        "importance": "high",
+        "type": "refusal",
+        "alternatives": null
+    },
+    "I'm sorry, but": {
+        "importance": "high",
+        "type": "refusal",
+        "alternatives": null
+    },
+    "However, it is important to note": {
+        "importance": "high",
+        "type": "annoyance",
+        "alternatives": null
+    },
+    "However, it's important": {
+        "importance": "high",
+        "type": "annoyance",
+        "alternatives": null
+    },
+    "[mixture/mix] of [pain/love/arousal]": {
+        "importance": "high",
+        "type": "annoyance",
+        "alternatives": null
+    },
+    "just above a whisper": {
+        "importance": "medium",
+        "type": "annoyance",
+        "alternatives": null
+    },
+    "against your ear": {
+        "importance": "medium",
+        "type": "annoyance",
+        "alternatives": null
+    },
+    "[member/shaft/manhood/wood/his tool/his meat]": {
+        "importance": "medium",
+        "type": "rp-annoyance",
+        "alternatives": [
+          "dick",
+          "cock",
+          "penis"
+        ]
+    },
+}
