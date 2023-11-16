@@ -11,7 +11,7 @@ The format should be like this:
 {
   "shiver down * spine": {
     "importance": "high",
-    "type": "",
+    "type": "annoyance",
     "alternatives": {
       "quiver through *'s body"
     }
