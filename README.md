@@ -23,6 +23,18 @@ The format should be like this:
 alternatives is optional!
 
 importance: high, medium, low
-types: annoyance(things like "shiver down * spine", or "just above a whisper"), refusal(pretty obvious what this means, something like "im sorry, but", or "as an AI" and so on)
+types: annoyance(things like "shiver down * spine", or "just above a whisper"), rp-annoyance(words/sentences like "member", "shaft" or stuff like that that can destroy rp experience), refusal(pretty obvious what this means, something like "im sorry, but", or "as an AI" and so on)
 
 if [word1/word2/word3/...] is placed somewhere in the entry, it means it can be one of those words
+
+empty template:
+
+```json
+"": {
+        "importance": "high",
+        "type": "annoyance",
+        "alternatives": [
+          "null"
+        ]
+    },
+```
