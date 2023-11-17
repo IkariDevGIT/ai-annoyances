@@ -4,6 +4,7 @@ Idea by https://github.com/AlpinDale/gptslop
 
 # Contributing
 Capitalization doesn't matter!
+
 \* means anythign can be between it.
 
 The format should be like this:
